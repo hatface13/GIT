@@ -1,8 +1,11 @@
 
 
 #header{
-  background-color:lavender;
+  background-color:darkred;
   height: 65px;
+}
+body{
+  background-color:bisque;
 }
 #headerspan{
   font-weight: bolder;
@@ -14,11 +17,11 @@
 }
 .left{
   Float:left;
-  width: 665px;
+  width: 365px;
 }
 .right{
   float:right;
-  width: 665px;
+  width: 365px;
 }
 .leftlabels{
   font-size: 45px;
@@ -43,11 +46,18 @@
     border: solid 1px #6e6e6e;
     vertical-align:45px;
     color:white;
+    border-style: ridge;
+    border-radius: 5px;
+    border-width: inherit
 }
 .button{
     font-size: 12px;
-}
-body{
-  background-color:lavender;
+    border-radius: 15px;
+    border-width: medium;
+    border-style: groove;
 }
 
+.tbc{
+    width: %;
+    height: 50%;
+}
