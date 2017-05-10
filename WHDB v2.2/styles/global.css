@@ -1,7 +1,7 @@
 
 
 #header{
-  background-color: #137ec1;
+  background-color:lavender;
   height: 65px;
 }
 #headerspan{
@@ -14,11 +14,11 @@
 }
 .left{
   Float:left;
-  width: 289px;
+  width: 665px;
 }
 .right{
   float:right;
-  width: 289px;
+  width: 665px;
 }
 .leftlabels{
   font-size: 45px;
@@ -34,61 +34,20 @@
     margin-right: 5px;
     float:right;
 }
+.textbox{
+    border-style: groove;
+    border-width: thick;
+    background-color: #cac7cc;
+    height: 50px;
+    font-size: 40px;
+    border: solid 1px #6e6e6e;
+    vertical-align:45px;
+    color:white;
+}
+.button{
+    font-size: 12px;
+}
 body{
-  background-color: #f6ddff;
+  background-color:lavender;
 }
 
-#l19{
-  margin-bottom: 37px;
-}
-#l17{
-  margin-bottom: 38px;
-}
-#l15{
-  margin-bottom: 37px;
-}
-#l13{
-  margin-bottom: 36px;
-}
-#l11{
-  margin-bottom: 37px;
-}
-#l09{
-  margin-bottom: 36px;
-}
-#l07{
-  margin-bottom: 37px;
-}
-#l05{
-  margin-bottom: 38px;
-}
-#l03{
-  margin-bottom: 34px;
-}
-#r20{
-  margin-bottom: 37px;
-}
-#r18{
-  margin-bottom: 38px;
-}
-#r16{
-  margin-bottom: 37px;
-}
-#r14{
-  margin-bottom: 36px;
-}
-#r12{
-  margin-bottom: 37px;
-}
-#r10{
-  margin-bottom: 36px;
-}
-#r08{
-  margin-bottom: 37px;
-}
-#r06{
-  margin-bottom: 38px;
-}
-#r04{
-  margin-bottom: 34px;
-}
